@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "Connecting Embeddings for Knowledge Graph Entity Typing"
   image: ""
 ---
