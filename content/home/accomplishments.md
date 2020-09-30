@@ -21,21 +21,21 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "http://www.mcm.edu.cn/"
-  title = "Chinese University Mathematical Contest Modeling"
+  title = "National First Prize (Top 1%) in Chinese University Mathematical Contest Modeling"
   url = "http://www.mcm.edu.cn/"
   certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = "National First Prize (Top 1%)"
+  date_start = "2017-6-1"
+  date_end = "2017-9-1"
+  description = ""
 
 [[item]]
   organization = "Kaggle"
-  organization_url = "https://www.kaggle.com/c/ieee-fraud-detection"
-  title = "IEEE-CIS Fraud Detection"
+  organization_url = ""
+  title = "Top 8% in IEEE-CIS Fraud Detection"
   url = ""
   certificate_url = ""
   date_start = "2019-07-01"
   date_end = "2019-12-21"
-  description = "Top 8%"
+  description = ""
 
 +++
