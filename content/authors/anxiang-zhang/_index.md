@@ -1,7 +1,7 @@
 ---
 title: Anxiang(Adam) Zhang
 role: Master Student in School of Computer Science, Carnegie Mellon University.
-avatar_filename: me.jpg
+avatar_filename: avatar.jpg
 bio: Welcome to my website. I'm a self-motivated guy who wishes to learn more
   about the world and make real impact!
 interests:
