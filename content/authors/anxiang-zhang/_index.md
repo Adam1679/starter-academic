@@ -1,3 +1,11 @@
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[social]]
+#   icon = "cv"
+#   icon_pack = "ai"
+#   link = "files/cv.pdf"
+# Username (this should match the folder name)
+authors = ["anxiang-zhang"]
 ---
 title: Anxiang(Adam) Zhang
 role: Master Student in School of Computer Science, Carnegie Mellon University.
@@ -20,7 +28,7 @@ education:
       institution: Southwestern University of Finance and Economics
       year: 2019
 email: anxiangz@andrew.cmu.edu
-superuser: false
+superuser: true
 ---
 Hola! My name **is Anxiang (Adam) Zhang**, a master student in Carnegie Mellon. I'm currently looking for **PhD opportunities in Fall 2021.**
 
