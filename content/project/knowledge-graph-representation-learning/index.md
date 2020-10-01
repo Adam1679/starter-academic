@@ -8,7 +8,7 @@ summary: "**Knowledge graph (KG)** entity typing aims at inferring possible
   propose a novel approach for KG entity typing which is trained by jointly
   utilizing local typing knowledge from existing entity type assertions and
   global triple knowledge in KGs."
-draft: false
+draft: true
 featured: true
 authors:
   - Anxiang Zhang
@@ -18,7 +18,7 @@ external_link: https://www.aclweb.org/anthology/2020.acl-main.572/
 image:
   filename: p3.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: ""
   alt_text: Effective mechanisms of entity type inference with local typing
     knowledge and global triple knowledge
