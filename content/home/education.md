@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Education"
 subtitle = ""
 
 # Date format for experience
@@ -36,5 +36,21 @@ date_format = "Jan 2006"
   * Parallel Computing and Architecture (B+)
   """
 
+[[experience]]
+  title = "Southwestern University of Finance and Economics"
+  company = "Bachelor of Economics"
+  company_url = ""
+  location = "Chengdu, China"
+  date_start = "2015-09-01"
+  date_end = "2019-06-31"
+  description = """
+  - 2016/2017/2018 First Class scholarship (Top 5%)
+  
+  Relevent Coursework:
+  * Data Mining
+  * Algorithm
+  * Data Structure
+  * Operation System
+  """
 
 +++
